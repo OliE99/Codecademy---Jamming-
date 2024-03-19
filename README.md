@@ -8,11 +8,11 @@ This project is part of a off-line challenge from a Codecademy's Full Stack path
 
 ## Main Folders
 
-The ./src folder is organized as follows:
+### The ./src folder is organized as follows:
 
-...src/components: Holds all the components' files (.js, .css, and images/icons)
-...src/mock: Keeps a .js file with a few arrays used to build the app before connecting it to the API.
-...src/util: Stores a file with the methods and variables used to connect and use Spotify's API.
++ ...src/components: Holds all the components' files (.js, .css, and images/icons)
++ ...src/mock: Keeps a .js file with a few arrays used to build the app before connecting it to the API.
++ ...src/util: Stores a file with the methods and variables used to connect and use Spotify's API.
 Components
 
 ## The app is broken down into these pieces:
