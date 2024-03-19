@@ -1,4 +1,4 @@
-### Jammming App - React Project
+# Jammming App - React Project
 
 This is a basic music app that uses Spotify API to help users create and save playlist in their accounts.
 
@@ -26,7 +26,7 @@ Components
 
 ## Features
 
-# Here's a quick summary of the functionalities in the app:
+### Here's a quick summary of the functionalities in the app:
 
 One-click login screen.
 Basic dasboard: One section to manage the search and another one to manage the playlist.
