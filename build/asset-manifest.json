@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Codecademy---Jamming-/static/css/main.a368ceb8.css",
-    "main.js": "/Codecademy---Jamming-/static/js/main.7c89fa95.js",
-    "static/js/787.4c406edc.chunk.js": "/Codecademy---Jamming-/static/js/787.4c406edc.chunk.js",
-    "static/media/background_photo_desktop.jpeg": "/Codecademy---Jamming-/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpeg",
-    "index.html": "/Codecademy---Jamming-/index.html",
-    "main.a368ceb8.css.map": "/Codecademy---Jamming-/static/css/main.a368ceb8.css.map",
-    "main.7c89fa95.js.map": "/Codecademy---Jamming-/static/js/main.7c89fa95.js.map",
-    "787.4c406edc.chunk.js.map": "/Codecademy---Jamming-/static/js/787.4c406edc.chunk.js.map"
+    "main.css": "/codecademy---jamming-/static/css/main.a72aa7ff.css",
+    "main.js": "/codecademy---jamming-/static/js/main.a854a750.js",
+    "static/js/787.4c406edc.chunk.js": "/codecademy---jamming-/static/js/787.4c406edc.chunk.js",
+    "static/media/background_photo_desktop.jpeg": "/codecademy---jamming-/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpeg",
+    "index.html": "/codecademy---jamming-/index.html",
+    "main.a72aa7ff.css.map": "/codecademy---jamming-/static/css/main.a72aa7ff.css.map",
+    "main.a854a750.js.map": "/codecademy---jamming-/static/js/main.a854a750.js.map",
+    "787.4c406edc.chunk.js.map": "/codecademy---jamming-/static/js/787.4c406edc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a368ceb8.css",
-    "static/js/main.7c89fa95.js"
+    "static/css/main.a72aa7ff.css",
+    "static/js/main.a854a750.js"
   ]
 }
