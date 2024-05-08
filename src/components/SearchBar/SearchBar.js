@@ -34,7 +34,7 @@ function SearchBar(props) {
         onKeyPress={handleKeyPress}
         placeholder="Enter A Song Title"
         value={searchTerm} />
-      <a onClick={handleSearch}>SEARCH</a>
+      <a className='SearchButton' onClick={handleSearch}>SEARCH</a>
     </div>
   )
 }
